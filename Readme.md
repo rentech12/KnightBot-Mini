@@ -1,6 +1,7 @@
-<div align="center">
+<div align="center">![1001296271](https://github.com/user-attachments/assets/a151fe5d-f357-4cf6-addc-9ffed08b3240)
 
-## Knight Bot Mini
+
+## SOUYA Bot Mini
 
 [![Made with Baileys](https://img.shields.io/badge/Made%20with-Baileys-00bcd4?style=for-the-badge)](https://github.com/WhiskeySockets/Baileys)
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
@@ -10,7 +11,7 @@
 
 </div>
 
-Knight Bot Mini is a WhatsApp MD bot built on top of the **Baileys** library.  
+Souya Bot Mini is a WhatsApp MD bot built on top of the **Baileys** library.  
 It’s designed to be fast, lightweight, and easy to customize without touching the core code.  
 This project is **fully open source** — you can modify it, rebrand it, and make your **own bot** from this codebase **free of cost**, without needing any permission from our side.  
 All commands and the overall structure are written in a way that makes customization (bot image, prefix, name, features, etc.) as easy as possible.
@@ -140,11 +141,11 @@ When the bot starts:
 
 <div align="center">
 
-<a href="https://t.me/+3QhFUZHx-nhhZmY1" target="_blank">
+<a href="https://whatsapp.com/channel/0029VbBy5o5It5s4zZZRgo1y" target="_blank">
   <img src="https://img.shields.io/badge/Join-Telegram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram">
 </a>
 
-<a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A" target="_blank">
+<a href="https://whatsapp.com/channel/0029VbBy5o5It5s4zZZRgo1y" target="_blank">
   <img src="https://img.shields.io/badge/Join-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Join WhatsApp Channel">
 </a>
 
